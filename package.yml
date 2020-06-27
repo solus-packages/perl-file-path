@@ -1,6 +1,6 @@
 name       : perl-file-path
 version    : '2.16'
-release    : 6
+release    : 7
 source     :
     - https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Path-2.16.tar.gz : 21f7d69b59c381f459c5f0bf697d512109bd911f12ca33270b70ca9a9ef6fa05
 license    : Artistic-1.0-Perl
