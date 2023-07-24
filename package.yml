@@ -1,6 +1,6 @@
 name       : perl-file-path
 version    : '2.18'
-release    : 9
+release    : 10
 source     :
     - https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Path-2.18.tar.gz : 980f0a17edb353df46e9cd7b357f9f5929cde0f80c45fd7a06cf7e0e8bd6addd
 homepage   : https://metacpan.org/pod/File::Path
